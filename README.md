@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **generative AI including LLM and diffusion model**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
