@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate AI engineer and software developer with Phd from Stanford University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexchen-engineer" alt="alexchen-engineer" /></a> </p>
+
 
 - 🔭 I’m currently working on **a generative ai startup**
 
