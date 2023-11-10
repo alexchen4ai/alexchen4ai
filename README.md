@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate AI engineer and software developer with Phd from Stanford University.</h3>
+<h3 align="center">A passionate AI engineer and software developer interested in generative AI.</h3>
 
 
 
