@@ -19,4 +19,4 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexchen-engineer&show_icons=true&theme=gotham" alt="alexchen-engineer" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexchen-engineer&" alt="alexchen-engineer" /></p>
