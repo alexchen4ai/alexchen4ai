@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **a generative ai startup**
+- 🔭 I’m currently working on **a generative ai startup**!
 
 - 🌱 I’m currently learning **generative AI including LLM and diffusion model**
 
