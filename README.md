@@ -2,9 +2,6 @@
 <h3 align="center">A passionate AI engineer and software developer interested in generative AI.</h3>
 
 
-
-
-
 - 🔭 I’m currently working on **a generative ai startup**!
 
 - 🌱 I’m currently learning **generative AI including LLM and diffusion model**
