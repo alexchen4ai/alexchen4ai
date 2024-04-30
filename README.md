@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **generative AI including LLM and diffusion model**
 
 <p align="center">
-  <img src="coding.gif" alt="A GIF showing my work">
+  <img src="cat-computer.gif" alt="A GIF showing my work">
 </p>
 
 <p align="left">
