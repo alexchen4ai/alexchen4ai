@@ -31,8 +31,8 @@
     <tr>
         <td colspan="2" align="center">
         <p align="center">
-            <a href="https://github.com/zechengz">
-            <img alt="Alex Chen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zechengz&bg_color=FFFFFF&color=0088CB&line=0088CB&point=000000&hide_border=true" />
+            <a href="https://github.com/alexchen4ai">
+            <img alt="Alex Chen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alexchen4ai&bg_color=FFFFFF&color=0088CB&line=0088CB&point=000000&hide_border=true" />
             </a>
         </p>
         </td>
