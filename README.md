@@ -44,4 +44,3 @@
     </tr>
     </table>
 </details>
-[![Contribution Heatmap](https://ghchart.rshah.org/alexchen4ai?bg=ffffff)](https://github.com/alexchen4ai)  
