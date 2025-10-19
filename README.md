@@ -13,29 +13,14 @@
 <p align="left">
 </p>
 
-<details open>
-  <summary align="center"><h3>Stats and Activity</h3></summary>
-    <table>
-    <tr>
-        <td>
-        <a href="https://github.com/alexchen4ai">
-            <img title="Alex Chen's GitHub Streak Stats" alt="Alex Chen's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=alexchen4ai&theme=telegram&hide_border=true"/>
-        </a>
-        </td>
-        <td>
-        <a href="https://github.com/alexchen4ai">
-            <img alt="Alex Chen's Github Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=alexchen4ai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF&title_color=0088CB&icon_color=0088CB&text_color=0088CB" height="192px"/>
-        </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-        <p align="center">
-            <a href="https://github.com/alexchen4ai">
-            <img alt="Alex Chen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alexchen4ai&bg_color=FFFFFF&color=0088CB&line=0088CB&point=000000&hide_border=true" />
-            </a>
-        </p>
-        </td>
-    </tr>
-    </table>
-</details>
+## 📊 GitHub Stats
+
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexchen4ai&show_icons=true&theme=default" alt="Alex  Chen's GitHub Stats" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen4ai&layout=compact&theme=default" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=alexchen4ai&theme=default" alt="GitHub Streak" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
+   <img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexchen4ai&theme=github" alt="https://github.com/alexchen4ai" />
+</div>
+
+[![Contribution Heatmap](https://ghchart.rshah.org/alexchen4ai?bg=ffffff)](https://github.com/alexchen4ai)  
