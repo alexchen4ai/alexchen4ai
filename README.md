@@ -43,7 +43,3 @@
     </tr>
     </table>
 </details>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=alexchen4ai&theme=flat&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
-</div>
