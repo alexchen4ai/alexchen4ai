@@ -47,5 +47,4 @@
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=alexchen4ai&theme=flat&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=false" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=alexchen4ai&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexchen4ai&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
