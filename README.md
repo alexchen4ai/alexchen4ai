@@ -23,11 +23,6 @@
     <tr>
         <td>
         <a href="https://github.com/alexchen4ai">
-            <img title="Alex Chen's GitHub Streak Stats" alt="Alex Chen's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=alexchen4ai&theme=telegram&hide_border=true"/>
-        </a>
-        </td>
-        <td>
-        <a href="https://github.com/alexchen4ai">
             <img alt="Alex Chen's Github Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=alexchen4ai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF&title_color=0088CB&icon_color=0088CB&text_color=0088CB" height="192px"/>
         </a>
         </td>
