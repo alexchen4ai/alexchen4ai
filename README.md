@@ -11,30 +11,3 @@
 
 <p align="left">
 </p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-</p>
-
-<details open>
-  <summary align="center"><h3>Stats and Activity</h3></summary>
-    <table>
-    <tr>
-        <td>
-        <a href="https://github.com/alexchen4ai">
-            <img alt="Alex Chen's Github Stats" src="https://github-readme-stats-rouge-ten-78.vercel.app/api?username=alexchen4ai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=FFFFFF&title_color=0088CB&icon_color=0088CB&text_color=0088CB" height="192px"/>
-        </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-        <p align="center">
-            <a href="https://github.com/alexchen4ai">
-            <img alt="Alex Chen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=alexchen4ai&bg_color=FFFFFF&color=0088CB&line=0088CB&point=000000&hide_border=true" />
-            </a>
-        </p>
-        </td>
-    </tr>
-    </table>
-</details>
