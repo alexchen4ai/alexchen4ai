@@ -39,9 +39,3 @@ Currently, I am building **Nexa AI**, where we enable Day-0 support for state-of
 * **[Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/abs/2404.11459)** (arXiv:2404.11459)
 * **[Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)** (arXiv:2404.01744)
 * **[On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088)** (arXiv:2409.00088)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexchen4ai&show_icons=true&theme=minimal" alt="Alex Chen's GitHub stats" />
-</p>
