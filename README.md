@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I am an AI researcher and software architect specializing in **on-device AI** and **efficient generative models**. I obtained my PhD in Computational Mechanics and Mathematics from **Stanford University** (GPA 3.98/4.0).
+I am an AI researcher and software architect specializing in **on-device AI** and **efficient generative models**.
 
 Currently, I am building **Nexa AI**, where we enable Day-0 support for state-of-the-art generative AI models on edge devices (NPU, GPU, CPU). My work focuses on making AI friction-free, private, and production-ready for mobile, PC, automotive, and IoT platforms.
 
