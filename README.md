@@ -16,7 +16,7 @@ Currently, I am building **Nexa AI**, where we enable Day-0 support for state-of
 
 - 🔭 **I’m currently working on:** [NexaSDK](https://github.com/NexaAI/NexaSDK) and the **NexaML** inference engine.
 - 🌱 **My research interests:** Multimodal AI, Model Quantization, Hardware Acceleration (Qualcomm HTP, CUDA), and Agentic Workflows.
-- 💼 **Previous Experience:** Investment Scout at Sequoia Capital; PhD Researcher at Stanford.
+- 💼 **Previous Experience:** PhD Researcher at Stanford.
 
 ---
 
