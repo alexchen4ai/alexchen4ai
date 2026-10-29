@@ -64,4 +64,4 @@ My work has been featured or recognized by **Qualcomm, NVIDIA, AMD, Intel, Googl
 - **[DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device LLMs](https://arxiv.org/abs/2509.09097)** — IEEE ICDM 2025, Best Paper Runner-Up
 - **[AutoNeural: Co-Designing Vision-Language Models for NPU Inference](https://arxiv.org/abs/2512.02924)**
 - **[OmniVLM: A Token-Compressed Vision-Language Model for Efficient On-Device Inference](https://arxiv.org/abs/2412.11475)**
-- **[Dolphin: Long Context as a New Modality for Energy-Efficient On-Device Language Models](https://arxiv.org/abs/2408.15518)**
+- **[Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)**
