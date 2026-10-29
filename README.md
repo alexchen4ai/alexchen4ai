@@ -23,9 +23,9 @@ Founder of <a href="https://nexa.ai">Nexa AI</a> (acquired by Qualcomm) · Stanf
 
 I am an AI researcher and engineering leader focused on building production-grade generative AI inference systems across data centers and edge devices.
 
-- **At Qualcomm:** I lead all generative AI inference engineering, a **70–80-person organization** spanning **GenieX** and **Qualcomm AI Hub**, serving **1,000+ enterprise customers** across data centers, robotics, PC, mobile, and IoT.
+- **At Qualcomm:** I lead all generative AI inference engineering, spanning **GenieX** and **Qualcomm AI Hub**, serving **1,000+ enterprise customers** across data centers, robotics, PC, mobile, and IoT.
 - **Previously:** I founded and led **Nexa AI**, raised **$15M**, built its core inference and model technology, and led the company through its acquisition by Qualcomm.
-- **Education:** PhD in Applied Mathematics from Stanford University.
+- **Education:** PhD from Stanford University.
 - **Research:** Author of 10+ publications in AI inference, efficient language models, multimodal AI, and model–hardware co-design.
 
 ---
